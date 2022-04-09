@@ -1,4 +1,6 @@
 # Binar: Challenge 04
+#Suwandi Amin Sangaji
+#Universitas Muhammadiyah Sorong
 
 - Mulai modifikasi file `server/index.js` apabila ingin membuat HTTP server.
 - Mulai modifikasi folder `public` apabila ingin memodifikasi HTML.

@@ -41,5 +41,6 @@ maka akan ditampilkan di dalam list tersebut.
 Just, hack it bro!
 
 # View
-  
-  [![](/Users/suwandiaminsangaji/Documents/GitHub/Binar_Challange_04/public/img/Screen Shot 2022-04-10 at 19.04.26.png)](
+  ![Screen Shot 2022-04-10 at 19 04 26](https://user-images.githubusercontent.com/61943487/162613409-afc3c9bc-bf1c-42ce-9451-558293f68574.png)
+
+![Screen Shot 2022-04-10 at 19 14 56](https://user-images.githubusercontent.com/61943487/162613443-c8e52a45-d1a1-488d-8599-413fe65bf6bd.png)

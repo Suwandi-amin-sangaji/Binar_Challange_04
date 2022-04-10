@@ -39,3 +39,7 @@ maka akan ditampilkan di dalam list tersebut.
 # Tips
 
 Just, hack it bro!
+
+# View
+  
+  [![](/Users/suwandiaminsangaji/Documents/GitHub/Binar_Challange_04/public/img/Screen Shot 2022-04-10 at 19.04.26.png)](
